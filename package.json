@@ -1,0 +1,29 @@
+{
+  "name": "raml-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for import RAML files and returning client generated code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jardilio",
+  "license": "ISC",
+  "dependencies": {
+    "popsicle": "8.1.1",
+    "raml-javascript-generator": "^1.0.0-0",
+    "raml-parser": "^0.8.18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jardilio/raml-loader.git"
+  },
+  "keywords": [
+    "raml",
+    "loader",
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/jardilio/raml-loader/issues"
+  },
+  "homepage": "https://github.com/jardilio/raml-loader#readme"
+}
