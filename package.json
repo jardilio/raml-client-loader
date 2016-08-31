@@ -1,5 +1,5 @@
 {
-  "name": "raml-loader",
+  "name": "raml-client-loader",
   "version": "0.0.1",
   "description": "Webpack loader for import RAML files and returning client generated code",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jardilio/raml-loader.git"
+    "url": "git+https://github.com/jardilio/raml-client-loader.git"
   },
   "keywords": [
     "raml",
@@ -23,7 +23,7 @@
     "webpack"
   ],
   "bugs": {
-    "url": "https://github.com/jardilio/raml-loader/issues"
+    "url": "https://github.com/jardilio/raml-client-loader/issues"
   },
-  "homepage": "https://github.com/jardilio/raml-loader#readme"
+  "homepage": "https://github.com/jardilio/raml-client-loader#readme"
 }
