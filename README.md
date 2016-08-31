@@ -2,7 +2,7 @@ A dead simple way to import/require your [RAML](http://raml.org/) definition fil
 get back a JavaScript Client Class for that definition with Webpack. 
 
 ```
-npm install raml-loader --save-dev
+npm install raml-client-loader --save-dev
 ```
 
 ```

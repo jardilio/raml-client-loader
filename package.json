@@ -1,6 +1,6 @@
 {
   "name": "raml-client-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Webpack loader for import RAML files and returning client generated code",
   "main": "index.js",
   "scripts": {
