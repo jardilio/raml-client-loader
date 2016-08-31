@@ -10,7 +10,7 @@ module: {
     loaders: [
         {
             test: /\.raml$/,
-            loader: 'raml-loader'
+            loader: 'raml-client-loader'
         }
     ]
 }
